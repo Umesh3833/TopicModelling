@@ -1,4 +1,4 @@
-# TopicModelling in NMDC
+# Topic Modelling in NMDC
 
-Run topicmodel.py 
-check output in topicmodel_output/logs.txt and heatmap.png 
+- Run topicmodel.py 
+- check output in topicmodel_output/logs.txt and heatmap.png 
