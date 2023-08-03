@@ -1,0 +1,60 @@
+['Fibre First Initiative', 'Foreign Direct Investment', 'Quality of Service', 'Spectrum Policy', 'Unified License']
+Number of Documents: 5
+Mean Number of Words per Document: 322.6
+Vocabulary Size: 651
+Importing data...
+
+Complete
+Training topic model...
+Complete
+[['spectrum', 'ndcp', 'communication', 'resources', 'efficient', 'advancements', 'trading', 'allocate', 'bands', 'harmonization', 'expected', 'reasonable', 'principles', 'providing', 'significant', 'flexible', 'transparent', 'promotes', 'allows', 'moreover'], ['fiber', 'first', 'fibre', 'internet', 'optic', 'initiative', 'networks', 'speed', 'infrastructure', 'high', 'cables', 'network', 'facilitate', 'governance', 'education', 'economic', 'connectivity', 'units', 'deployment', 'increasing'], ['foreign', 'telecom', 'fdi', 'investment', 'investors', 'indian', 'manufacturing', 'companies', 'development', 'security', 'technological', 'expertise', 'domestic', 'aligns', 'procedures', 'limits', 'outlines', 'attracting', 'enables', 'knowledge'], ['qos', 'regulations', 'telecom', 'quality', 'ndcp', 'consumer', 'standards', 'customer', 'operators', 'compliance', 'competition', 'reliable', 'service', 'high', 'approach', 'anti', 'trust', 'mechanisms', 'resolution', 'grievances'], ['policy', 'digital', 'services', 'ndcp', 'operators', 'communications', 'sector', 'india', 'service', 'promoting', 'innovation', 'also', 'investments', 'aims', 'infrastructure', 'national', 'emphasizes', 'government', 'data', 'encourages']]
+---------------Topic 0-------------------
+
+['spectrum', 'ndcp', 'communication', 'resources', 'efficient', 'advancements', 'trading', 'allocate', 'bands', 'harmonization', 'expected', 'reasonable', 'principles', 'providing', 'significant', 'flexible', 'transparent', 'promotes', 'allows', 'moreover']
+
+---------------Topic 1-------------------
+
+['fiber', 'first', 'fibre', 'internet', 'optic', 'initiative', 'networks', 'speed', 'infrastructure', 'high', 'cables', 'network', 'facilitate', 'governance', 'education', 'economic', 'connectivity', 'units', 'deployment', 'increasing']
+
+---------------Topic 2-------------------
+
+['foreign', 'telecom', 'fdi', 'investment', 'investors', 'indian', 'manufacturing', 'companies', 'development', 'security', 'technological', 'expertise', 'domestic', 'aligns', 'procedures', 'limits', 'outlines', 'attracting', 'enables', 'knowledge']
+
+---------------Topic 3-------------------
+
+['qos', 'regulations', 'telecom', 'quality', 'ndcp', 'consumer', 'standards', 'customer', 'operators', 'compliance', 'competition', 'reliable', 'service', 'high', 'approach', 'anti', 'trust', 'mechanisms', 'resolution', 'grievances']
+
+---------------Topic 4-------------------
+
+['policy', 'digital', 'services', 'ndcp', 'operators', 'communications', 'sector', 'india', 'service', 'promoting', 'innovation', 'also', 'investments', 'aims', 'infrastructure', 'national', 'emphasizes', 'government', 'data', 'encourages']
+
+Topic Distributions for Spectrum Policy
+
+Topic 0 ['spectrum', 'ndcp', 'communication', 'resources', 'efficient', 'advancements'] 
+Probability: 0.553042
+
+Topic 1 ['fiber', 'first', 'fibre', 'internet', 'optic', 'initiative'] 
+Probability: 0.000336
+
+Topic 2 ['foreign', 'telecom', 'fdi', 'investment', 'investors', 'indian'] 
+Probability: 0.00465
+
+Topic 3 ['qos', 'regulations', 'telecom', 'quality', 'ndcp', 'consumer'] 
+Probability: 0.012201
+
+Topic 4 ['policy', 'digital', 'services', 'ndcp', 'operators', 'communications'] 
+Probability: 0.429771
+
+Topic 0
+
+['spectrum', 'ndcp', 'communication', 'resources', 'efficient', 'advancements', 'trading', 'allocate', 'bands', 'harmonization', 'expected', 'reasonable', 'principles', 'providing', 'significant', 'flexible', 'transparent', 'promotes', 'allows', 'moreover']
+
+0.553 Spectrum Policy
+
+0.0524 Unified License
+
+0.0384 Quality of Service
+
+0.0082 Foreign Direct Investment
+
+0.0015 Fibre First Initiative
